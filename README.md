@@ -1,5 +1,5 @@
 # prBoom-4-Android
-All credit of this port belongs to its original creator, ClarkDawg.
+All credit of this port belongs to its original creator, Clark Sheff.
 
 Source files can be also found [here.](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=http://prboom4android.googlecode.com/svn/)
 
